@@ -1,0 +1,8 @@
+C:\tony\7 abr 16\7 abr 16\bin\Debug\7 abr 16.exe
+C:\tony\7 abr 16\7 abr 16\bin\Debug\7 abr 16.pdb
+C:\tony\7 abr 16\7 abr 16\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\tony\7 abr 16\7 abr 16\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\tony\7 abr 16\7 abr 16\obj\x86\Debug\7 abr 16.exe
+C:\tony\7 abr 16\7 abr 16\obj\x86\Debug\7 abr 16.pdb
+C:\tony\7 abr 16\7 abr 16\obj\x86\Debug\7 abr 16.csprojResolveAssemblyReference.cache
+C:\tony\7 abr 16\7 abr 16\obj\x86\Debug\7 abr 16.csproj.GenerateResource.Cache
