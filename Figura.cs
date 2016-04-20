@@ -9,10 +9,11 @@ namespace WindowsFormsApplication1
 {
     abstract class Figura
     {
-        public int X, Y;
-        public Pen pluma;
-        public Brush Brocha;
-        public int ancho, largo;
+        protected int X, Y; //todos protected
+        protected Pen pluma;
+        protected Brush Brocha;
+        protected int ancho, largo;
+        protected Color color; //color de la brocha
 
         public Figura(int x,int y)
         {
