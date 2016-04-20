@@ -13,7 +13,8 @@ namespace WindowsFormsApplication1
         protected Pen pluma;
         protected Brush Brocha;
         protected int ancho, largo;
-        protected Color color; //color de la brocha
+        //protected Color color; //color de la brocha
+        protected SolidBrush brocha;
 
         public Figura(int x,int y)
         {
